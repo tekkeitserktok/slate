@@ -49,6 +49,8 @@ You're going to need:
 
 ```shell
 # either run this to run locally
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftekkeitserktok%2Fslate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftekkeitserktok%2Fslate?ref=badge_shield)
+
 bundle install
 bundle exec middleman server
 
@@ -112,3 +114,7 @@ Special Thanks
 - [middleman-syntax](https://github.com/middleman/middleman-syntax)
 - [middleman-gh-pages](https://github.com/edgecase/middleman-gh-pages)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftekkeitserktok%2Fslate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftekkeitserktok%2Fslate?ref=badge_large)
